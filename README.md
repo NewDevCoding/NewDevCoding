@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating innovative projects!
 - 🌱 I’m currently learning software development and machine learning
 - 💞️ I’m looking to collaborate on software projects!
-- 📫 How to reach me isaac@thesheridans.com, Instrgram @Isaacsheridan6
+- 📫 How to reach me isaac@thesheridans.com, Instagram @Isaacsheridan6
 - 😄 Pronouns: really, guys?
 - ⚡ Fun fact: my second biggest hobby is playing table top games
 
