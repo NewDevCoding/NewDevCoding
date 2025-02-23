@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @NewDevCoding
-- 👀 I’m interested in creating innovative projects!
-- 🌱 I’m currently learning software development and machine learning
-- 💞️ I’m looking to collaborate on software projects!
-- 📫 How to reach me isaac@thesheridans.com, Instagram @Isaacsheridan6
-- 😄 Pronouns: really, guys?
-- ⚡ Fun fact: my second biggest hobby is playing table top games
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-NewDevCoding/NewDevCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
+
+###
