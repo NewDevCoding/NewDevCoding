@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Isaac Sheridan and I'm an aspiring developer from Georgia</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Finding new errors since 2020<br>📚 I'm currently focused on building my skills with my favorite tech stack: React, Next, Typescript, Node, Expressm and sanity<br>🎯 Goals: build a stunning portfolio of passion projects, complex tutorial projects, and collaboration projects<br>🎲 Fun fact: I love to play airsoft</p>
 
 ###
 
