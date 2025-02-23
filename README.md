@@ -10,14 +10,14 @@
 
 ###
 
+<p align="left">✨ Finding new errors since 2020<br>📚 I'm currently focused on building my skills with my favorite tech stack: React, Next, Typescript, Node, Express and sanity<br>🎯 Goals: build a stunning portfolio of passion projects, complex tutorial projects, and collaboration projects<br>🎲 Fun fact: I love to play airsoft</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newdevcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newdevcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<p align="left">✨ Finding new errors since 2020<br>📚 I'm currently focused on building my skills with my favorite tech stack: React, Next, Typescript, Node, Express and sanity<br>🎯 Goals: build a stunning portfolio of passion projects, complex tutorial projects, and collaboration projects<br>🎲 Fun fact: I love to play airsoft</p>
 
 ###
 
